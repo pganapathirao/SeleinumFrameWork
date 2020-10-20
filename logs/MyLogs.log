@@ -1,0 +1,30 @@
+[INFO ] 2020-10-05 22:25:48.804 [main] Log4jDemo - This is information message
+[ERROR] 2020-10-05 22:25:48.814 [main] Log4jDemo - This an error message
+[WARN ] 2020-10-05 22:25:48.814 [main] Log4jDemo - This is warning message
+[FATAL] 2020-10-05 22:25:48.815 [main] Log4jDemo - This is fatal message
+[TRACE] 2020-10-05 22:25:48.815 [main] Log4jDemo - This is trace message
+[INFO ] 2020-10-05 22:35:12.935 [main] Log4jDemo - This is information message
+[ERROR] 2020-10-05 22:35:12.941 [main] Log4jDemo - This an error message
+[WARN ] 2020-10-05 22:35:12.941 [main] Log4jDemo - This is warning message
+[FATAL] 2020-10-05 22:35:12.942 [main] Log4jDemo - This is fatal message
+[TRACE] 2020-10-05 22:35:12.942 [main] Log4jDemo - This is trace message
+[INFO ] 2020-10-06 21:46:40.246 [main] Log4jXMLDemo - This is information message
+[ERROR] 2020-10-06 21:46:40.276 [main] Log4jXMLDemo - This an error message
+[WARN ] 2020-10-06 21:46:40.277 [main] Log4jXMLDemo - This is warning message
+[FATAL] 2020-10-06 21:46:40.277 [main] Log4jXMLDemo - This is fatal message
+[TRACE] 2020-10-06 21:46:40.277 [main] Log4jXMLDemo - This is trace message
+[INFO ] 2020-10-06 21:48:29.374 [main] Log4jXMLDemo - This is information message
+[ERROR] 2020-10-06 21:48:29.377 [main] Log4jXMLDemo - This an error message
+[WARN ] 2020-10-06 21:48:29.378 [main] Log4jXMLDemo - This is warning message
+[FATAL] 2020-10-06 21:48:29.378 [main] Log4jXMLDemo - This is fatal message
+[TRACE] 2020-10-06 21:48:29.378 [main] Log4jXMLDemo - This is trace message
+[INFO ] 2020-10-06 21:49:48.278 [main] Log4jXMLDemo - This is information message
+[ERROR] 2020-10-06 21:49:48.283 [main] Log4jXMLDemo - This an error message
+[WARN ] 2020-10-06 21:49:48.283 [main] Log4jXMLDemo - This is warning message
+[FATAL] 2020-10-06 21:49:48.284 [main] Log4jXMLDemo - This is fatal message
+[TRACE] 2020-10-06 21:49:48.284 [main] Log4jXMLDemo - This is trace message
+[INFO ] 2020-10-06 21:51:05.200 [main] Log4jXMLDemo - This is information message
+[ERROR] 2020-10-06 21:51:05.204 [main] Log4jXMLDemo - This an error message
+[WARN ] 2020-10-06 21:51:05.205 [main] Log4jXMLDemo - This is warning message
+[FATAL] 2020-10-06 21:51:05.205 [main] Log4jXMLDemo - This is fatal message
+[TRACE] 2020-10-06 21:51:05.205 [main] Log4jXMLDemo - This is trace message
